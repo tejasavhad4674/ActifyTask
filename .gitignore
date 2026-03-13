@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local deployment helpers
+.azure_deploy_vars
+.last_deployed_app_name
+.lt_subdomain
